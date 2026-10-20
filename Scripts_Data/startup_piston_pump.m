@@ -1,0 +1,1 @@
+open_system('Slider_Crank_04_auto')
